@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A backend developer from Brazil</h3>
-
-- 🌱 I’m currently learning **Node.js**
+<h3 align="center">A Full Stack Developer</h3>
 
 - 📫 How to reach me **lucas.eduardo.schubert@gmail.com**
 
